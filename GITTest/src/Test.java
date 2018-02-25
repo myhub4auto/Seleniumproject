@@ -19,3 +19,15 @@ public class Test {
 	}
 
 }
+
+// GIT 
+
+// Create a folder - 
+
+// Team - share project 
+
+// Team - commit 
+
+// Team - remote - push 
+
+// master - add spec - finish // refresh
