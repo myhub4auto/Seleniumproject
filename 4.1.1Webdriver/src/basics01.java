@@ -20,6 +20,8 @@ System.setProperty("webdriver.chrome.driver", "E:\\Selenium JAR\\chrome\\chromed
 		System.out.println(Driver.getCurrentUrl());
 		
 		System.out.println(Driver.getPageSource());
+		
+		System.out.println(Driver.getPageSource());
 
 	}
 
