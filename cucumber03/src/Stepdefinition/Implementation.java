@@ -31,6 +31,7 @@ public void initialization(String username, String password, String login) throw
 	
 	{
 	
+	//data
 	            	
 	}
 
